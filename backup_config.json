@@ -1,0 +1,12 @@
+{
+    "directories_to_backup": [
+        "/percorso/directory1",
+        "/percorso/directory2",
+        "/percorso/directory3"
+    ],
+    "backup_locations": [
+        "/percorso/backup/pc",
+        "/percorso/backup/usb",
+        "/altro/percorso/backup"
+    ]
+}
